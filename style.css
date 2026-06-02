@@ -10,7 +10,7 @@ div{
 }
 body{
     background-image: url("photo.png");
-    background-size:contain;
+    background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
     min-height: 100vh;
